@@ -1,0 +1,13 @@
+{
+  "name": "chathu-md",
+  "version": "1.0.0",
+  "description": "Anti-delete and Anti-view once WhatsApp bot by Chathu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.19.0"
+  }
+}
